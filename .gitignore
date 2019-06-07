@@ -1,9 +1,0 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
-L1 基础环境搭建与使用.ipynb
-XX_CTA策略-20190404.xlsx
-.gitignore
